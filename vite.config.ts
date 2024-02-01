@@ -17,4 +17,6 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base: "/Snacks-Data/", // Replace '<repository-name>' with your actual repository name
+
 })
